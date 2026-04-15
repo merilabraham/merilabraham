@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&background=0D111700&vCenter=true&width=700&lines=Hi%2C+I'm+Meril+%F0%9F%91%8B;Building+Next-Gen AI+Data+Products..." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1A1A1A&background=0D111700&vCenter=true&width=700&lines=Hi%2C+I'm+Meril+%F0%9F%91%8B;Building+Next-Gen+AI+Data Products..." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1A1A1A&background=0D111700&vCenter=true&width=700&lines=Hi%2C+I'm+Meril+%F0%9F%91%8B;Building+Next-Gen+AI+Data+Products..." />
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1A1A1A&background=0D111700&vCenter=true&width=700&lines=Hi%2C+I'm+Meril+%F0%9F%91%8B;Building+Next-Gen+AI+Data+Products..." />
 </picture>
 
